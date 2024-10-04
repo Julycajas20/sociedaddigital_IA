@@ -20,6 +20,7 @@
  <li><a href="#">funcionamiento</a></li>
  <li><a href="#">analisis</a></li>
    <li><a href="#">recomendaciones</a></li>
+<li><a href="#">IA</a></li>
  </ul>
  </nav>
 -->
